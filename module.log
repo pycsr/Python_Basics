@@ -1,0 +1,29 @@
+[Log_Module_test.py: 2021-11-17 22:27:13,667: [     func1:16]: [   WARNING]: This is func1 warning
+[Log_Module_test.py: 2021-11-17 22:27:13,668: [     func2:19]: [  CRITICAL]: This is func2 critical
+[2708326881.py: 2021-11-17 22:27:13,730: [  <module>:1]: [     DEBUG]: This is debug message
+[2708326881.py: 2021-11-17 22:27:13,732: [  <module>:2]: [      INFO]: This is info message
+[2708326881.py: 2021-11-17 22:27:13,732: [  <module>:3]: [   WARNING]: This is warning message
+[2708326881.py: 2021-11-17 22:27:13,732: [  <module>:4]: [     ERROR]: This is error message
+[2708326881.py: 2021-11-17 22:27:13,732: [  <module>:5]: [  CRITICAL]: This is critical message
+[Log_Module_test.py: 2021-11-17 22:28:16,421: [     func1:16]: [   WARNING]: This is func1 warning
+[Log_Module_test.py: 2021-11-17 22:28:16,422: [     func2:19]: [  CRITICAL]: This is func2 critical
+[2708326881.py: 2021-11-17 22:28:16,478: [  <module>:1]: [     DEBUG]: This is debug message
+[2708326881.py: 2021-11-17 22:28:16,480: [  <module>:2]: [      INFO]: This is info message
+[2708326881.py: 2021-11-17 22:28:16,481: [  <module>:3]: [   WARNING]: This is warning message
+[2708326881.py: 2021-11-17 22:28:16,482: [  <module>:4]: [     ERROR]: This is error message
+[2708326881.py: 2021-11-17 22:28:16,483: [  <module>:5]: [  CRITICAL]: This is critical message
+[1771647362.py: 2021-11-17 22:29:54,438: [  <module>:1]: [     DEBUG]: This is debug message
+[1771647362.py: 2021-11-17 22:29:54,440: [  <module>:2]: [      INFO]: This is info message
+[1771647362.py: 2021-11-17 22:29:54,441: [  <module>:3]: [   WARNING]: This is warning message
+[1771647362.py: 2021-11-17 22:29:54,442: [  <module>:4]: [     ERROR]: This is error message
+[1771647362.py: 2021-11-17 22:29:54,444: [  <module>:5]: [  CRITICAL]: This is critical message
+[3684245480.py: 2021-11-17 22:31:01,756: [  <module>:1]: [     DEBUG]: This is debug message
+[3684245480.py: 2021-11-17 22:31:01,757: [  <module>:2]: [      INFO]: This is info message
+[3684245480.py: 2021-11-17 22:31:01,759: [  <module>:3]: [   WARNING]: This is warning message
+[3684245480.py: 2021-11-17 22:31:01,760: [  <module>:4]: [     ERROR]: This is error message
+[3684245480.py: 2021-11-17 22:31:01,761: [  <module>:5]: [  CRITICAL]: This is critical message
+[3684245480.py: 2021-11-17 22:31:01,763: [  <module>:9]: [     ERROR]: Exception occurred due to division by zero
+Traceback (most recent call last):
+  File "/var/folders/dt/34mh0kcs6vb1yfxmbqn51tm00000gp/T/ipykernel_2253/3684245480.py", line 7, in <module>
+    c = 1/0
+ZeroDivisionError: division by zero
